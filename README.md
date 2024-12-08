@@ -1,6 +1,6 @@
 # Computational Thinking Games
 
-Utför de fyra datalogiska delprocesserna på nedanstående problem. Avsluta varje spel/problem med att försöka skapa en steg för steg-beskrivning av processen.
+Utför de fyra datalogiska delprocesserna på nedanstående problem. Avsluta varje spel/problem med att försöka skapa en steg för steg-beskrivning av processen. 
 
 ## Stegen
 
@@ -27,7 +27,7 @@ Spelet har 3st tärningar.
 
 ## Sten, sax och påse
 
-Skriv pseudokod för det klassiska spelet sten, sax och påse. Först till 3 vinster vinner!
+Applicera datalogiskt tänkande på det klassiska spelet sten, sax och påse. Först till 3 vinster vinner!
 
 ## Fizzbuzz
 
@@ -42,4 +42,5 @@ Loopa igenom hundra nummer och om:
 Fråga användaren efter ett tal mellan 1 och 100. Programmet ska ha ett hemligt tal sparat. Det ska fortsätta fråga användaren till dess att användaren gissar det hemliga talet. Om man gissade för högt eller för lågt så ska det skrivas ut, så att användaren har en rimlig chans att klara det.
 
 ## Söka efter likheter mellan ord
+
 Fråga användaren efter två ord, och kontrollera därefter hur många bokstäver som förekommer på samma plats i båda orden. 
