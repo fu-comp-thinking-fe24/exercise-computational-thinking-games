@@ -44,3 +44,13 @@ Fråga användaren efter ett tal mellan 1 och 100. Programmet ska ha ett hemligt
 ## Söka efter likheter mellan ord
 
 Fråga användaren efter två ord, och kontrollera därefter hur många bokstäver som förekommer på samma plats i båda orden. 
+
+## Todo app - en utmaning!
+
+Applicera det datalogiska tänkandet på en enkel todo app där användaren kan:
+
+* Se sina todos i en lista
+* Lägga till en ny todo
+* Ta bort en todo
+
+
