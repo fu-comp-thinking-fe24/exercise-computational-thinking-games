@@ -53,4 +53,7 @@ Applicera det datalogiska tänkandet på en enkel todo app där användaren kan:
 * Lägga till en ny todo
 * Ta bort en todo
 
+## En webbsida - en utmaning
+
+Analysera en valfri webbplats utifrån de datalogiska delprocesserna.
 
